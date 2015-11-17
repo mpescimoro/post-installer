@@ -10,6 +10,7 @@ sudo apt-get autoclean
 # additional repository
 sudo add-apt-repository -y ppa:linrunner/tlp
 sudo add-apt-repository -y ppa:numix/ppa
+sudo add-apt-repository -y ppa:atareao/telegram
 
 # system upgrade
 sudo apt-get -y --force-yes update
