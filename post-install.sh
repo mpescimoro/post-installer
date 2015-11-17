@@ -21,7 +21,8 @@ sudo apt-get -y install \
 virtualbox virtualbox-guest-additions-iso gparted gimp \
 firefox thunderbird gedit gedit-plugins vlc dconf-tools \
 transmission icedtea7-plugin openjdk-7-jre openjdk-7-jdk \
-libreoffice numix-icon-theme-circle git tlp tlp-rdw nvidia-331
+libreoffice numix-icon-theme-circle git tlp tlp-rdw telegram \
+nvidia-331
 
 
 # reducing swappiness
